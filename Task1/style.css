@@ -33,7 +33,10 @@ ul a {
   list-style: none;
 }
 
-.not-main-ul:last-child a {
+.not-main-ul:last-child {
   list-style: square;
+}
+
+.not-main-ul:last-child a {
   text-decoration: none;
 }
