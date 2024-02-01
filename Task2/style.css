@@ -1,0 +1,18 @@
+body {
+  width: 600px;
+  margin: 0 auto;
+}
+
+h1 + p {
+  font-size: 20px;
+}
+
+p code {
+  color: red;
+  font-family: "Courier New", monospace;
+  white-space: pre;
+}
+
+.code {
+  color: pink;
+}
