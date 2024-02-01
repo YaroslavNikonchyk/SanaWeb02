@@ -1,0 +1,39 @@
+body {
+  width: 600px;
+  margin: 0 auto;
+}
+
+p {
+  text-align: center;
+  color: green;
+}
+
+.red-color {
+  color: red;
+}
+
+#second-p {
+  color: pink;
+}
+
+a {
+  display: block;
+  color: blue;
+}
+
+ul a {
+  color: pink;
+}
+
+.main-li {
+  color: green;
+}
+
+.not-main-ul {
+  list-style: none;
+}
+
+.not-main-ul:last-child a {
+  list-style: square;
+  text-decoration: none;
+}
